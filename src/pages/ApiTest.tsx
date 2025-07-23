@@ -234,7 +234,7 @@ export default function ApiTest() {
                 </div>
                 <div>
                   <span className="text-gray-600">API Key:</span>
-                  <span className="ml-2 font-mono text-gray-400">sk-8yDK...（已配置）</span>
+                  <span className="ml-2 font-mono text-gray-400">已配置</span>
                 </div>
                 <div>
                   <span className="text-gray-600">状态:</span>

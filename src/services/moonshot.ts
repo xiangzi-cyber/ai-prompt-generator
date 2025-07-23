@@ -2,7 +2,7 @@ import OpenAI from 'openai';
 import { AIModel } from '@/types';
 
 // Moonshot API配置
-const MOONSHOT_API_KEY = import.meta.env.VITE_MOONSHOT_API_KEY || 'sk-8yDK62Qpe8CKibB4lOTiVBM0brB3wDTmdZtnjDNR6LUN0oV1';
+const MOONSHOT_API_KEY = import.meta.env.VITE_MOONSHOT_API_KEY;
 const MOONSHOT_BASE_URL = import.meta.env.VITE_MOONSHOT_BASE_URL || 'https://api.moonshot.cn/v1';
 const MOONSHOT_MODEL = import.meta.env.VITE_MOONSHOT_MODEL || 'kimi-k2-0711-preview';
 
