@@ -20,7 +20,7 @@
 
 1. **Fork项目**
    ```bash
-   git clone https://github.com/your-username/ai-prompt-generator.git
+   git clone https://github.com/xiangzi-cyber/ai-prompt-generator.git
    cd ai-prompt-generator
    ```
 

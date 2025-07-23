@@ -18,12 +18,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ai-prompt-generator.git"
+    "url": "https://github.com/xiangzi-cyber/ai-prompt-generator.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/ai-prompt-generator/issues"
+    "url": "https://github.com/xiangzi-cyber/ai-prompt-generator/issues"
   },
-  "homepage": "https://github.com/yourusername/ai-prompt-generator#readme",
+  "homepage": "https://github.com/xiangzi-cyber/ai-prompt-generator#readme",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

@@ -35,8 +35,8 @@
 
 1. **克隆项目**
 ```bash
-git clone <your-repo-url>
-cd 提示词网站
+git clone https://github.com/xiangzi-cyber/ai-prompt-generator.git
+cd ai-prompt-generator
 ```
 
 2. **安装依赖**
