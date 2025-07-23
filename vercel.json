@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/moonshot",
+      "destination": "/api/moonshot.js"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
